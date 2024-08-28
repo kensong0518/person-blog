@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bootstrap 4 網格系統</title>
+    <!-- Bootstrap官方網站 https://getbootstrap.com/ -->
+    <!-- 引用Bootstrap.css -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- 引用Bootstrap.js -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="alert alert-danger" role="alert">
+        A simple primary alert—check it out!
+    </div>
+    <!-- header -->
+    <header class="text-center">
+        <div>
+            <!-- text-primary 換顏色 -->
+            <h1 class="text-center text-primary">Title</h1>
+            <a class="btn btn-primary" href="">link</a>
+            <a class="btn btn-warning" href="">link</a>
+            <a class="btn btn-success" href="">link</a>
+            <a href="" class="btn btn-outline-primary">link</a>
+        </div>
+    </header>
+    <!-- header end -->
+    <!-- section -->
+    <section>
+        <!-- container 在每個裝置有不同的容器大小 -->
+        <!-- container-fluid 在每個裝置滿版 -->
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <!-- col -->
+                <div class="col-md-4">
+                    <!-- w-25 50 75 100 -->
+                    <img class="w-100" src="https://picsum.photos/id/999/1600/1600" alt="">
+                </div>
+                <!-- col end -->
+                <!-- col -->
+                <div class="col-md-8">
+                    <h2>Image title</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum omnis iure debitis sed
+                        perspiciatis cupiditate ipsum incidunt, maiores dolorum assumenda iusto eum dolore nisi ea alias
+                        laborum quo repellat! Cupiditate dolores fuga doloremque aut, incidunt a dolorum ratione nulla,
+                        hic esse quae! Explicabo magni nesciunt voluptate, eum itaque quos repellat, odio veniam
+                        facilis, perferendis obcaecati tenetur facere. Animi, eum quis.</p>
+                </div>
+                <!-- col end -->
+            </div>
+            <!-- row end -->
+            <!-- row -->
+            <div class="row">
+                <!-- 
+                    col- 手機直版
+                    col-sm- 小型螢幕(小平板、橫放手機)
+                    col-md- 中型螢幕(平板、筆電)
+                    col-lg- 大型螢幕(顯示器)
+                    col-xl- 超大型螢幕
+                 -->
+                <!-- col -->
+                <div class="col-md-3 col-sm-6">
+                    <h2>1st Col</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem aliquid cum reiciendis
+                        temporibus ullam optio, quam autem, ratione voluptate libero ad, laboriosam deserunt sit ut
+                        commodi aliquam! Ipsum dicta cupiditate eaque aliquam nemo doloribus amet id. Atque itaque
+                        repellendus distinctio.</p>
+                </div>
+                <!-- col end -->
+                <!-- col -->
+                <div class="col-md-3 col-sm-6">
+                    <h2>2nd Col</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem aliquid cum reiciendis
+                        temporibus ullam optio, quam autem, ratione voluptate libero ad, laboriosam deserunt sit ut
+                        commodi aliquam! Ipsum dicta cupiditate eaque aliquam nemo doloribus amet id. Atque itaque
+                        repellendus distinctio.</p>
+                </div>
+                <!-- col end -->
+                <!-- col -->
+                <div class="col-md-3 col-sm-6 col-6">
+                    <h2>3rd Col</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem aliquid cum reiciendis
+                        temporibus ullam optio, quam autem, ratione voluptate libero ad, laboriosam deserunt sit ut
+                        commodi aliquam! Ipsum dicta cupiditate eaque aliquam nemo doloribus amet id. Atque itaque
+                        repellendus distinctio.</p>
+                </div>
+                <!-- col end -->
+                <!-- col -->
+                <div class="col-md-3 col-sm-6 col-6">
+                    <h2>4th Col</h2>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Exercitationem aliquid cum reiciendis
+                        temporibus ullam optio, quam autem, ratione voluptate libero ad, laboriosam deserunt sit ut
+                        commodi aliquam! Ipsum dicta cupiditate eaque aliquam nemo doloribus amet id. Atque itaque
+                        repellendus distinctio.</p>
+                </div>
+                <!-- col end -->
+            </div>
+            <!-- row end -->
+        </div>
+        <!-- container end -->
+    </section>
+    <!-- section -->
+</body>
+
+</html>
