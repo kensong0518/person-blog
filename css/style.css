@@ -108,21 +108,21 @@ button:focus {
 
 /* 放入背景圖片 */
 #galleryImage1 {
-    background-image: url('../img/1..img49.png');
+    background-image: url('../img/1.專利.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage2 {
-    background-image: url('../img/1.c++基礎.png');
+    background-image: url('../img/2.金牌.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage3 {
-    background-image: url('../img/2.c++進階.png');
+    background-image: url('../img/3.img16.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -130,186 +130,156 @@ button:focus {
 }
 
 #galleryImage4 {
-    background-image: url('../img/3.img101C++leetcode初階解體.png');
+    background-image: url('../img/4.img48.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage5 {
-    background-image: url('../img/4.c++進階解題.png');
+    background-image: url('../img/5.c++基礎.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage6 {
-    background-image: url('../img/5.c++演算法.png');
+    background-image: url('../img/6.c++進階.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage7 {
-    background-image: url('../img/6.html初階.png');
+    background-image: url('../img/7.c++進階解題.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage8 {
-    background-image: url('../img/7.html進階.png');
+    background-image: url('../img//8.c++初階解題.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 #galleryImage9 {
-    background-image: url('../img/8.c++初階解題.png');
+    background-image: url('../img/9.c++演算法.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage10{
-    background-image: url('../img/9.img101sql.png');
+    background-image: url('../img/10.html初階.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage11 {
-    background-image: url('../img/10.java基礎.png');
+    background-image: url('../img/11.html進階.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage12 {
-    background-image: url('../img/11.java進階.png');
+    background-image: url('../img/12.img101C++leetcode初階解體.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage13 {
-    background-image: url('../img/12.python初階.png');
+    background-image: url('../img/13.img101sql.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage14 {
-    background-image: url('../img/13.演算法實戰班.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage15 {
     background-image: url('../img/14.react.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
+#galleryImage15 {
+    background-image: url('../img/15.java基礎.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 #galleryImage16 {
-    background-image: url('../img/15.img1.jpg');
+    background-image: url('../img/16.java進階.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage17 {
-    background-image: url('../img/16.img2.jpg');
+    background-image: url('../img/17.演算法實戰班.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage18 {
-    background-image: url('../img/17.img4.jpg');
+    background-image: url('../img/18.python初階.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage19 {
-    background-image: url('../img/18.img5.jpg');
+    background-image: url('../img/19..jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage20 {
-    background-image: url('../img/19.img6.jpg');
+    background-image: url('../img/20.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage21 {
-    background-image: url('../img/20.img7.jpg');
+    background-image: url('../img/21.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
 #galleryImage22 {
-    background-image: url('../img/21.img8.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage23 {
     background-image: url('../img/22.img9.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-#galleryImage24 {
-    background-image: url('../img/23img10.jpg');
+#galleryImage23 {
+    background-image: url('../img/23.img5.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-#galleryImage25 {
+#galleryImage24 {
     background-image: url('../img/24.img11.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-#galleryImage26 {
+#galleryImage25 {
     background-image: url('../img/25.img12.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-#galleryImage27 {
+#galleryImage26 {
     background-image: url('../img/26.img13.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
+#galleryImage27 {
+    background-image: url('../img/27.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 #galleryImage28 {
-    background-image: url('../img/27.img14.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage29 {
-    background-image: url('../img/28.img15.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage30 {
-    background-image: url('../img/29.img16.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage31 {
-    background-image: url('../img/29.img16.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage32 {
-    background-image: url('../img/30.img23.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage33 {
-    background-image: url('../img/31.img48.png');
+    background-image: url('../img/28.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
