@@ -36,7 +36,7 @@ button:focus {
     background-size: cover;
     /* 讓圖片固定在後方 */
     background-attachment: fixed;
-    padding: 100px 0px;
+    padding: 200px 0px;
     /* filter: brightness(0.5); */
     position: relative;
     margin-bottom: 0px;
