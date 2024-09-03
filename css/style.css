@@ -225,66 +225,11 @@ button:focus {
     background-position: center;
 }
 #galleryImage19 {
-    background-image: url('../img/19..jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage20 {
-    background-image: url('../img/20.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage21 {
-    background-image: url('../img/21.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage22 {
-    background-image: url('../img/22.img9.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage23 {
-    background-image: url('../img/23.img5.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage24 {
-    background-image: url('../img/24.img11.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage25 {
-    background-image: url('../img/25.img12.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage26 {
-    background-image: url('../img/26.img13.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage27 {
-    background-image: url('../img/27.jpg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-#galleryImage28 {
     background-image: url('../img/28.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
 }
-
 /*=============================================
 =                  Start Now                  =
 =============================================*/
